@@ -1,5 +1,5 @@
 # wp-sidebar-maker
-This plugin for used to create the dynamic sidebar with wordpress custom post type and also we can add the sidebar with shortcode
+This plugin for used to create the dynamic sidebar with wordpress custom post type and also we can show the sidebar with our custom shortcode
 
 ### Step - 1:
 ![Screenshot from 2022-08-31 13-04-15](https://user-images.githubusercontent.com/102505605/187619965-d7903147-61bb-4496-9640-e272d75311d2.png)

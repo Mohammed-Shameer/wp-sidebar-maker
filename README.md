@@ -25,4 +25,4 @@ Copy you sidebar shortcode
 
 ![Screenshot from 2022-08-31 13-14-02](https://user-images.githubusercontent.com/102505605/187621773-2791c45c-6245-41b3-898b-c12eabf07909.png)
 
-Add the shortcoade insiade your page or post
+Add the shortcoade inside your page or post

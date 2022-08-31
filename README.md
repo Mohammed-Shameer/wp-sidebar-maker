@@ -9,7 +9,7 @@ Click the sidebar menu
 ### Step - 2:
 ![Screenshot from 2022-08-31 13-05-51](https://user-images.githubusercontent.com/102505605/187620266-0a93abbd-f9f5-4b71-a26c-a5a2437be82f.png)
 
-Add the sidebar titlle and descrption
+Add the sidebar title and descrption
 
 ![Screenshot from 2022-08-31 13-09-30](https://user-images.githubusercontent.com/102505605/187621130-a55b846e-9bcc-4475-b7af-06437e74b179.png)
 
